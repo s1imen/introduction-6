@@ -1,0 +1,2 @@
+b7f4179 Добавил status.txt
+2425772 Добавил README.md
